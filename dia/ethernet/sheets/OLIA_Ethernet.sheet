@@ -11,7 +11,7 @@
     <object name="Network - General Computer (Tower)">
         <description>PC</description>
     </object>
-    <object name="Network - General Computer (Tower)">
-        <description>Cisco - Car</description>
+    <object name="Cisco - Car">
+        <description>PLC</description>
     </object>
 </contents></sheet>
