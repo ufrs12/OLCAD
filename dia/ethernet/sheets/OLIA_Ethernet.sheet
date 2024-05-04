@@ -8,4 +8,10 @@
     <object name="Cisco - Workgroup switch">
         <description>Switch</description>
     </object>
+    <object name="Network - General Computer (Tower)">
+        <description>PC</description>
+    </object>
+    <object name="Network - General Computer (Tower)">
+        <description>Cisco - Car</description>
+    </object>
 </contents></sheet>
