@@ -14,4 +14,7 @@
     <object name="Cisco - Car">
         <description>PLC</description>
     </object>
+    <object name="Test">
+        <description>Test</description>
+    </object>
 </contents></sheet>
