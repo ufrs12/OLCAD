@@ -1,1 +1,1 @@
-cp -r $(realpath $0)/ethernet/* $HOME/.dio/
+cp -r $(dirname "$(realpath $0)")/ethernet/* $HOME/.dio/
