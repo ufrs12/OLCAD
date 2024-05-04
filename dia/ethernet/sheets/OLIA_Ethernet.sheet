@@ -11,10 +11,7 @@
     <object name="Network - General Computer (Tower)">
         <description>PC</description>
     </object>
-    <object name="Cisco - Car">
+    <object name="Network - Modular Switch">
         <description>PLC</description>
-    </object>
-    <object name="Test">
-        <description>Test</description>
     </object>
 </contents></sheet>
