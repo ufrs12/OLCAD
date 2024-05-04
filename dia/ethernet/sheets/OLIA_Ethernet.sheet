@@ -5,5 +5,7 @@
 <name>OLIA Ethernet</name>
 <description>OLIA Ethernet topology</description>
 <contents>
-<!--добавить формы здесь-->
+    <object name="PLC">
+        <description>PLC</description>
+    </object>
 </contents></sheet>
