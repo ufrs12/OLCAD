@@ -17,4 +17,10 @@
         <svg:line x1="3" y1="2" x2="6" y2="4" />
         <svg:polyline points="5,4 6,4 5.6154,3.0769" />
     </svg:svg>
+
+    <ext_attributes>
+        <ext_attribute name="Integer" type="int" />
+        <ext_attribute name="String" type="string" />
+        <ext_attribute name="Float" type="real" />
+    </ext_attributes>
 </shape>
