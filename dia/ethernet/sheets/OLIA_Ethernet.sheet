@@ -5,7 +5,7 @@
 <name>OLIA Ethernet</name>
 <description>OLIA Ethernet topology</description>
 <contents>
-    <object name="PLC">
-        <description>PLC</description>
+    <object name="Cisco - Workgroup switch">
+        <description>Switch</description>
     </object>
 </contents></sheet>
