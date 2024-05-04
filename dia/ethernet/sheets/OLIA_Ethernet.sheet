@@ -2,7 +2,7 @@
 <sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
 
 
-<name>OLIA Ethernet</name>
+<name>OLIA Topology</name>
 <description>OLIA Ethernet topology</description>
 <contents>
     <object name="Cisco - Workgroup switch">
