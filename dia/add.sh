@@ -1,1 +1,1 @@
-cp -r $(dirname "$(realpath $0)")/ethernet/* $HOME/.dio/
+cp -r --parents $(dirname "$(realpath $0)")/ethernet/* $HOME/.dia/
