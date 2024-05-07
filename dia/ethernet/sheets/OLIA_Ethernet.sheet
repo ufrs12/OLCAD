@@ -5,8 +5,8 @@
 <name>OLIA Topology</name>
 <description>OLIA Ethernet topology</description>
 <contents>
-    <object name="Cisco - Workgroup switch">
-        <description>Switch</description>
+    <object name="OLIA - HUB">
+        <description>HUB</description>
     </object>
     <object name="Network - General Computer (Tower)">
         <description>PC</description>

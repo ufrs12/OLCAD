@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>OLIA - HUB</name>
+  <icon>hub.png</icon>
+  <connections>
+    <point x="19.8117" y="17.1844"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1="4" y1="-3" x2="12" y2="3" />
+  <svg:svg>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 20.05,17.0004 A 0.22013,0.22013 0 0 0 19.8099,17.1929"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="19.8117" y1="17.1844" x2="19.8116" y2="17.8827"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 19.8115,17.8811 A 0.201961,0.201961 0 0 0 20.0136,18.0785"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="20.7114" y1="18.0784" x2="20.0083" y2="18.0783"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="20.7314" y1="16.9998" x2="20.0283" y2="16.9997"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="20.9442" y1="17.2005" x2="20.944" y2="17.8988"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 20.9432,17.2013 A 0.21227,0.21227 0 0 0 20.7197,16.9992"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 20.7079,18.078 A 0.215379,0.215379 0 0 0 20.9439,17.8916"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="20.395" y1="17.2772" x2="20.7258" y2="17.2772"/>
+    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="20.7708,17.2772 20.7108,17.3072 20.7258,17.2772 20.7108,17.2472 "/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="20.3975" y1="17.6195" x2="20.7262" y2="17.6193"/>
+    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="20.7712,17.6192 20.7112,17.6493 20.7262,17.6193 20.7112,17.5893 "/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="20.3918" y1="17.7977" x2="20.0385" y2="17.7978"/>
+    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="19.9935,17.7978 20.0535,17.7678 20.0385,17.7978 20.0535,17.8278 "/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="20.3844" y1="17.4552" x2="20.0286" y2="17.4554"/>
+    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="19.9836,17.4554 20.0435,17.4254 20.0286,17.4554 20.0436,17.4854 "/>
+    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: sans; font-style: normal; font-weight: normal" x="19.4193" y="16.2235" font-size="0.8" textLength="0"></svg:text>
+  </svg:svg>
+</shape>
