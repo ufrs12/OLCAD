@@ -3,10 +3,10 @@
   <name>OLIA - HUB</name>
   <icon>hub.png</icon>
   <connections>
-    <point x="1" y="1"/>
+    <point x="0" y="0"/>
   </connections>
   <aspectratio type="fixed"/>
-  <textbox x1="0" y1="2.2" x2="3" y2="3" />
+  <textbox x1="-1.5" y1="1.3" x2="3" y2="3" />
   <svg:svg>
     <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 0.268444 0.0298118 C 0.149402,0.0180856 0.0427819,0.103568 0.028344,0.222312"/>
     <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="0.030144" y1="0.213812" x2="0.030044" y2="0.912112"/>
