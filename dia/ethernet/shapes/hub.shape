@@ -3,27 +3,26 @@
   <name>OLIA - HUB</name>
   <icon>hub.png</icon>
   <connections>
-    <point x="19.8117" y="17.1844"/>
+    <point x="0.030144" y="0.213812"/>
   </connections>
   <aspectratio type="fixed"/>
   <textbox x1="4" y1="-3" x2="12" y2="3" />
   <svg:svg>
-    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 20.05,17.0004 A 0.22013,0.22013 0 0 0 19.8099,17.1929"/>
-    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="19.8117" y1="17.1844" x2="19.8116" y2="17.8827"/>
-    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 19.8115,17.8811 A 0.201961,0.201961 0 0 0 20.0136,18.0785"/>
-    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="20.7114" y1="18.0784" x2="20.0083" y2="18.0783"/>
-    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="20.7314" y1="16.9998" x2="20.0283" y2="16.9997"/>
-    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="20.9442" y1="17.2005" x2="20.944" y2="17.8988"/>
-    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 20.9432,17.2013 A 0.21227,0.21227 0 0 0 20.7197,16.9992"/>
-    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 20.7079,18.078 A 0.215379,0.215379 0 0 0 20.9439,17.8916"/>
-    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="20.395" y1="17.2772" x2="20.7258" y2="17.2772"/>
-    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="20.7708,17.2772 20.7108,17.3072 20.7258,17.2772 20.7108,17.2472 "/>
-    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="20.3975" y1="17.6195" x2="20.7262" y2="17.6193"/>
-    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="20.7712,17.6192 20.7112,17.6493 20.7262,17.6193 20.7112,17.5893 "/>
-    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="20.3918" y1="17.7977" x2="20.0385" y2="17.7978"/>
-    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="19.9935,17.7978 20.0535,17.7678 20.0385,17.7978 20.0535,17.8278 "/>
-    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="20.3844" y1="17.4552" x2="20.0286" y2="17.4554"/>
-    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="19.9836,17.4554 20.0435,17.4254 20.0286,17.4554 20.0436,17.4854 "/>
-    <svg:text style="fill: #000000; fill-opacity: 1; stroke: none; text-anchor:startfont-family: sans; font-style: normal; font-weight: normal" x="19.4193" y="16.2235" font-size="0.8" textLength="0"></svg:text>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 0.268444 0.0298118 C 0.149402,0.0180856 0.0427819,0.103568 0.028344,0.222312"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="0.030144" y1="0.213812" x2="0.030044" y2="0.912112"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 0.029944 0.910512 C 0.0324244,1.02032 0.122207,1.10802 0.232044,1.10791"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="0.929844" y1="1.10781" x2="0.226744" y2="1.10771"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="0.949844" y1="0.0292118" x2="0.246744" y2="0.0291118"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" x1="1.16264" y1="0.229912" x2="1.16244" y2="0.928212"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 1.16164 0.230712 C 1.15902,0.174198 1.13394,0.121071 1.09197,0.0831264 C 1.05001,0.0451814 0.994636,0.0255577 0.938144,0.0286118"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.05; stroke: #bf9770" d="M 0.926344 1.10741 C 1.04255,1.11958 1.14726,1.03687 1.16234,0.921012"/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="0.613444" y1="0.306612" x2="0.944244" y2="0.306612"/>
+    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="0.989244,0.306612 0.929244,0.336612 0.944244,0.306612 0.929244,0.276612 "/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="0.615944" y1="0.648912" x2="0.944644" y2="0.648712"/>
+    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="0.989644,0.648612 0.929644,0.678712 0.944644,0.648712 0.929644,0.618712 "/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="0.610244" y1="0.827112" x2="0.256944" y2="0.827212"/>
+    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="0.211944,0.827212 0.271944,0.797212 0.256944,0.827212 0.271944,0.857212 "/>
+    <svg:line style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" x1="0.602844" y1="0.484612" x2="0.247044" y2="0.484812"/>
+    <svg:polygon style="fill: #bf9770; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.06; stroke: #bf9770" points="0.202044,0.484812 0.261944,0.454812 0.247044,0.484812 0.262044,0.514812 "/>
   </svg:svg>
 </shape>
